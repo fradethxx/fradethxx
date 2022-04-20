@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me via WhatsApp : +62 838-3317-4818
--    I'm 14 y.o and i want to be a FrontEnd 
+-    I'm 14 y.o and i want to be a FrontEnd Developer
+-    Thank you :D
 
 <!---
 fradethxx/fradethxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
